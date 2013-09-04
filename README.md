@@ -12,7 +12,6 @@ Models & Persistence
 * [Unit Of Work](https://github.com/hangouts-rb-ru/models-and-persistence/blob/master/unit-of-work.md)
 * [Identity Map](https://github.com/hangouts-rb-ru/models-and-persistence/blob/master/identity-map.md)
 * [Repository](https://github.com/hangouts-rb-ru/models-and-persistence/blob/master/repository.md)
-
 * [Event Sourcing](https://github.com/hangouts-rb-ru/models-and-persistence/blob/master/event-sourcing.md)
 * [Datomic](https://github.com/hangouts-rb-ru/models-and-persistence/blob/master/datomic.md)
 

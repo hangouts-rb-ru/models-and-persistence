@@ -7,6 +7,8 @@ An object that wraps a row in a database table or view,
 encapsulates the database access, and adds domain logic on that data.
 
 
+![image](http://yuml.me/de9a72ad)
+
 
 ActiveRecord (gem) 
 -----------------------------------------------------------------------------------

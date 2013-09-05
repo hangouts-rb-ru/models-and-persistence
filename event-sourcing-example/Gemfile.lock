@@ -1,0 +1,10 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rspec-core (2.14.5)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  rspec-core

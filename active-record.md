@@ -71,3 +71,8 @@ DHH:
   I looked at all the options before settling on Active Record. 
   By far the easiest and simplest code came from using that pattern over 
   something like a data mapping or similar. So that made the choice simple.
+  
+
+
+
+# AR is effective compromise (OOP, complexity, development speed,...)!

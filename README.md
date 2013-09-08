@@ -16,6 +16,7 @@ RoR разработчики впитывают active record с молоком
 * сильные и слабые стороны
 * когда его достаточно, и когда стоит задуматься
 
+
 * [Active  Record](https://github.com/hangouts-rb-ru/models-and-persistence/blob/master/active-record.md)
 
 
@@ -24,6 +25,7 @@ RoR разработчики впитывают active record с молоком
 * паттерн и ключевые концепции
 * когда вам точно нужен datamapper, а когда хватит и AR?
 * ROM - реализация datamapper для ruby, чего ожидать
+
 
 * [Data Mapper](https://github.com/hangouts-rb-ru/models-and-persistence/blob/master/data-mapper.md)
 * [Active Record vs Data Mapper](https://github.com/hangouts-rb-ru/models-and-persistence/blob/master/active-record-and-data-mapper.md)
@@ -34,6 +36,8 @@ RoR разработчики впитывают active record с молоком
 
 * Зачем нам нужны PORO?
 * Преобразования типов
+
+
 
 * [Active Model](https://github.com/rails/rails/tree/master/activemodel)
 * [Active Attr](https://github.com/cgriego/active_attr)
@@ -48,6 +52,7 @@ RoR разработчики впитывают active record с молоком
 * Postgresql как документная база данных (hstore, json)
 
 
+
 * [DDD Aggregate](https://github.com/hangouts-rb-ru/models-and-persistence/blob/master/ddd-aggregate.md)
 * [Repository](https://github.com/hangouts-rb-ru/models-and-persistence/blob/master/repository.md)
 * [Aggregate Oriented Databases](https://github.com/hangouts-rb-ru/models-and-persistence/blob/master/aggregate-oriented.md)
@@ -58,6 +63,7 @@ RoR разработчики впитывают active record с молоком
 * CQRS
 * Event Sourcing
 * Datomic
+
 
 * [Event Sourcing](https://github.com/hangouts-rb-ru/models-and-persistence/blob/master/event-sourcing.md)
 * [Datomic](https://github.com/hangouts-rb-ru/models-and-persistence/blob/master/datomic.md)

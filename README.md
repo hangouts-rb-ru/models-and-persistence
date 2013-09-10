@@ -60,11 +60,7 @@ RoR разработчики впитывают active record с молоком
 
 ### 5. Будущее близко
 
-* CQRS
-* Event Sourcing
-* Datomic
-
-
+* [CQRS](https://github.com/hangouts-rb-ru/models-and-persistence/blob/master/cqrs.md)
 * [Event Sourcing](https://github.com/hangouts-rb-ru/models-and-persistence/blob/master/event-sourcing.md)
 * [Datomic](https://github.com/hangouts-rb-ru/models-and-persistence/blob/master/datomic.md)
 

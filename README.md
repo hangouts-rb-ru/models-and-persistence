@@ -34,6 +34,11 @@ RoR разработчики впитывают active record с молоком
 * когда его достаточно, и когда стоит задуматься
 
 
+Fowler (P of EAA): 
+        если пара десятков классов близких 
+        к структуре базы данных то Active Record
+
+
 * [Active  Record](https://github.com/hangouts-rb-ru/models-and-persistence/blob/master/active-record.md)
 
 
